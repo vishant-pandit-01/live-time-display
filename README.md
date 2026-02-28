@@ -1,2 +1,1 @@
-# new
-****
+live clock and current time
