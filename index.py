@@ -3,6 +3,7 @@ import time
 
 while True:
     now = datetime.datetime.now()
+    
                  #for 24 hour format
     # print(now.strftime("%H:%M:%S"), end="\r")       
 
@@ -10,3 +11,4 @@ while True:
     print(now.strftime("%I:%M:%S"), end="\r")        
     
     time.sleep(1)
+
